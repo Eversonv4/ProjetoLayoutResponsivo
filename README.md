@@ -1,6 +1,7 @@
 # Projeto Layout Responsivo
 Boas práticas com design responsivo
----
+
+
 ### Desktop:
 ![webpage](https://imgur.com/NXfFfW6.png)
 
